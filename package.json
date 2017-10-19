@@ -1,0 +1,16 @@
+{
+  "name": "nodejsandpython",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodePro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "nodemon": "^1.12.1",
+    "python-shell": "^0.4.0"
+  }
+}
